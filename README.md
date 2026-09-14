@@ -1,10 +1,3 @@
----
-
-### 📂 2. `README.md` para o repositório **Se-liga-na-musica**
-
-*(Acesse o repositório **Se-liga-na-musica**, clique em **Add file** > **Create new file**, nomeie como `README.md` e cole o código abaixo):*
-
-```markdown
 # 🎵 Se Liga na Música: Análise de Padrões de Consumo Musical
 
 ## 📌 Contexto & Objetivo
