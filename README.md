@@ -1,0 +1,1 @@
+Análise de Dados e Comportamento de Usuários. Desenvolvido durante o MBA para investigar hábitos de uso por cidade e dia da semana, com tratamento de dados, funções em Pandas e insights de padrões de utilização. Competências para associar: Python, Pandas, Manipulação de Dados, Análise de Dados nos Negócios, Estatística, Visualização de Dados.
